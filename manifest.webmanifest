@@ -1,0 +1,24 @@
+{
+  "name": "Turkey Holiday Money Converter",
+  "short_name": "Turkey Money",
+  "description": "Offline euro, Turkish lira and British pound converter",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#102a43",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
